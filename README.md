@@ -28,10 +28,18 @@ Atualmente estudo Python e pretendo aprender:
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Projetos atuais 
+
+- Bot profissional para servidor do discord
+- Ia sofisticada e avançada
+
+---
+
+##  Objetivos
 
 Me tornar desenvolvedor e criar sistemas profissionais.
 
 ---
+
 
 ⭐ Em constante evolução
