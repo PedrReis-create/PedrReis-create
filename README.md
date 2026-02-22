@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá, eu sou o Pedro 👋
 
-<!--
-**PedrReis-create/PedrReis-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de tecnologia (14 anos)  
+🐍 Estudando Python 
+🧠 Interessado em Backend  
+🚀 Futuro desenvolvedor  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mim
+
+Sou estudante de tecnologia focado em programação e desenvolvimento de sistemas.
+
+Atualmente estudo Python e pretendo aprender:
+
+- SQL
+- Django
+- HTML e CSS
+- JavaScript
+
+---
+
+## 🧠 Tecnologias
+
+- Python 🐍
+- SQL 🗄️ (aprendendo em breve)
+- Django 🌐 (aprendendo em breve)
+
+---
+
+## 🎯 Objetivo
+
+Me tornar desenvolvedor e criar sistemas profissionais.
+
+---
+
+⭐ Em constante evolução
