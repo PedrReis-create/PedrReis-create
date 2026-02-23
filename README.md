@@ -26,8 +26,8 @@ Atualmente estudo Python e SQL pretendo aprender:
 - Python 🐍
 - SQL 🗄️
 - Django 🌐 (aprendendo em breve)
-- Node.js 🖱️
-- React 🎛️ 
+- Node.js 🖱️ (aprendendo em breve)
+- React 🎛️ (aprendendo em breve)
 ---
 
 ## 🎯 Projetos atuais 
