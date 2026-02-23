@@ -1,7 +1,7 @@
 # Olá, eu sou o Pedro 👋
 
 🎓 Estudante de tecnologia (14 anos)  
-🐍 Estudando Python 
+🐍 Estudando Python, SQL e Git/Github
 🧠 Interessado em Backend  
 🚀 Futuro desenvolvedor  
 
@@ -11,21 +11,23 @@
 
 Sou estudante de tecnologia focado em programação e desenvolvimento de sistemas.
 
-Atualmente estudo Python e pretendo aprender:
+Atualmente estudo Python e SQL pretendo aprender:
 
-- SQL
 - Django
 - HTML e CSS
 - JavaScript
+- Node.js
+- React
 
 ---
 
 ## 🧠 Tecnologias
 
 - Python 🐍
-- SQL 🗄️ (aprendendo em breve)
+- SQL 🗄️
 - Django 🌐 (aprendendo em breve)
-
+- Node.js 🖱️
+- React 🎛️ 
 ---
 
 ## 🎯 Projetos atuais 
