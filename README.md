@@ -42,6 +42,7 @@ Atualmente estudo Python e SQL pretendo aprender:
 Me tornar desenvolvedor e criar sistemas profissionais.
 
 ---
+<img width="230" height="201" alt="download" src="https://github.com/user-attachments/assets/326a6ef6-2f06-4b72-aec5-cb2088ac2da0" />
 
 
 ⭐ Em constante evolução
