@@ -17,6 +17,7 @@ Currently working with:
 - Python
 - SQL (SQLite / MySQL)
 - Git & GitHub
+-JavaScript
 
 ---
 
