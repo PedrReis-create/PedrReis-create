@@ -8,8 +8,7 @@ Backend-focused developer working with Python, building applications and data-dr
 Technology student focused on systems development.
 
 Currently working with:
-- Python
-- SQL
+- React
 - JavaScript
 ---
 
@@ -23,10 +22,9 @@ Currently working with:
 
 ## Projects
 
-**Discord Bot (Python)**
-- Automated command system
-- Database integration
-- Modular architecture
+**Task management (React)**
+- A CRUD-based task management web app
+- Create, read, update and delete
 
 **Task Automation**
 - Data processing scripts
