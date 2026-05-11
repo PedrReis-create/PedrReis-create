@@ -11,11 +11,6 @@ Currently working with:
 - HTML & CSS
 - JavaScript
 ---
-Currently studying:
--JavaScript
--Spanish
--English 
----
 
 ## Core Stack
 - Python
