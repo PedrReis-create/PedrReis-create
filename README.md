@@ -8,8 +8,13 @@ Backend-focused developer working with Python, building applications and data-dr
 Technology student focused on systems development.
 
 Currently working with:
-- React
+- HTML & CSS
 - JavaScript
+---
+Currently studying:
+-JavaScript
+-Spanish
+-English 
 ---
 
 ## Core Stack
@@ -22,7 +27,7 @@ Currently working with:
 
 ## Projects
 
-**Task management (React)**
+**Task management (JavaScript)**
 - A CRUD-based task management web app
 - Create, read, update and delete
 
