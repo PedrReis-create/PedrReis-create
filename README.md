@@ -8,8 +8,8 @@ Backend-focused developer working with Python, building applications and data-dr
 Technology student focused on systems development.
 
 Currently working with:
-- HTML & CSS
-- JavaScript
+- Python
+- MySQL
 ---
 
 ## Core Stack
