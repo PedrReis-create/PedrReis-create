@@ -34,9 +34,10 @@ Currently working with:
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,git,github,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,git,github,html,css,js,vscode)](https://skillicons.dev)
 
 ## Objective
-To work as a backend Python & JavaScript developer, building APIs and scalable and beautiful systems.
+
+To work as a backend developer, building APIs, databases and scalable systems.
 
 
