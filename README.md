@@ -10,6 +10,7 @@ Technology student focused on systems development.
 Currently working with:
 - Python
 - MySQL
+- Docker
 
 ---
 
