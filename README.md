@@ -23,7 +23,7 @@ Currently working with:
 
 ## 🚀 Working with
 
-[![Working with](https://skillicons.dev/icons?i=python,mysql,git,github,vscode)](https://skillicons.dev)
+[![Working with](https://skillicons.dev/icons?i=python,mysql,git,github,vscode,docker,dbeaver)](https://skillicons.dev)
 
 ---
 
