@@ -32,7 +32,9 @@ Currently working with:
 
 ---
 
-(https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,git,github,html,css,js)](https://skillicons.dev)
 
 ## Objective
 To work as a backend Python & JavaScript developer, building APIs and scalable and beautiful systems.
