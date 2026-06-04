@@ -31,6 +31,12 @@ Currently working with:
 
 [![My Skills](https://skillicons.dev/icons?i=python,mysql,git,github,html,css,js,vscode)](https://skillicons.dev)
 
+---
+
+## Planning to learn
+
+[![Planning to learn](https://skillicons.dev/icons?i=flask,docker,postgres,linux)](https://skillicons.dev)
+
 ## Objective
 
 To work as a backend developer, building APIs, databases and scalable systems.
