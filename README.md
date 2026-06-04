@@ -35,7 +35,7 @@ Currently working with:
 
 ## Planning to learn
 
-[![Planning to learn](https://skillicons.dev/icons?i=flask,docker,postgres,linux)](https://skillicons.dev)
+[![Planning to learn](https://skillicons.dev/icons?i=flask,docker,postgres,linux,aws)](https://skillicons.dev)
 
 ## Objective
 
