@@ -21,6 +21,12 @@ Currently working with:
 
 ---
 
+## 🚀 Working with
+
+[![Working with](https://skillicons.dev/icons?i=python,mysql,git,github,vscode)](https://skillicons.dev)
+
+---
+
 ## My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=python,mysql,git,github,html,css,js,vscode)](https://skillicons.dev)
