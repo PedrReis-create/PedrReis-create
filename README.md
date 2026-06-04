@@ -5,7 +5,7 @@ Backend-focused developer working with Python, building applications and data-dr
 ---
 
 ## About me
-Technology student focused on systems development with [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+Technology student focused on systems development
 
 ---
 
