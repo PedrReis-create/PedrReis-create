@@ -5,12 +5,7 @@ Backend-focused developer working with Python, building applications and data-dr
 ---
 
 ## About me
-Technology student focused on systems development.
-
-Currently working with:
-- Python
-- MySQL
-- Docker
+Technology student focused on systems development with [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 ---
 
