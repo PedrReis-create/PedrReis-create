@@ -1,7 +1,7 @@
 ## Hi, I'm Pedro 👋
 
 # 💫 About Me:
- I’m currently working on Python projects,<br> learning Python, Databases and Software Development.<br> I’m looking to collaborate on beginner-friendly open source projects<br> and looking for help with improving my code architecture<br><br>💬 Ask me about Python and my learning journey<br>⚡ Fun fact: I enjoy turning ideas into real projects
+ I’m currently working on Python and MySQL projects,<br> learning Python, Databases and Software Development.<br> I’m looking to collaborate on beginner-friendly open source projects<br> and looking for help with improving my code architecture<br><br>💬 Ask me about Python and my learning journey<br>⚡ Fun fact: I enjoy turning ideas into real projects
 
 
 ## 🌐 Socials:
