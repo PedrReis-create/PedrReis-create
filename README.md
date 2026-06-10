@@ -38,4 +38,7 @@
 
 To work as a backend developer, building APIs, databases and scalable systems.
 
+## My portfolio
+
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pedrreis-create.github.io/mywebsite/)
 
