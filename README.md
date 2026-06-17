@@ -1,8 +1,7 @@
 ## Hi, I'm Pedro 👋
 
 # 💫 About Me:
- I’m currently working on Python and MySQL projects,<br> learning Python, Databases and Software Development.<br> I’m looking to collaborate on beginner-friendly open source projects<br> and looking for help with improving my code architecture<br><br>💬 Ask me about Python and my learning journey<br>⚡ Fun fact: I enjoy turning ideas into real projects
-
+ I’m currently working on Python and MySQL projects,<br> learning Python, Databases and Software Development.<br> I’m looking to collaborate on beginner-friendly open source projects<br> and looking for help with improving my code architecture<br><br>Ask me about Python and my learning journey<br> Email : ricardoepedroclash@gmail.com
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Vtwe47ctn) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@bytelab11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ricardoepedroclash@gmail.com) 
