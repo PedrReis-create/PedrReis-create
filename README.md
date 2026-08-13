@@ -30,10 +30,3 @@
 ## Objective
 
 To work as a backend developer, building APIs, databases and scalable systems.
-
-## My portfolio
-
-<a href="https://pedrreis-create.github.io/mywebsite/" target="_blank">
-  <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
-</a>
-
