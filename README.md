@@ -4,6 +4,14 @@ I'm a backend-focused developer working with Python and relational databases. Cu
 
 ---
 
+### Featured Projects
+
+* **[Commits-Farm](https://github.com/PedrReis-create/Commits-Farm)**  
+  A Python automation tool designed to interact with Git repositories and manage commit activity.  
+  `Python` `Git` `Automation`
+
+---
+
 ### Tech & Tools
 
 | Category | Technologies |
