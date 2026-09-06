@@ -19,7 +19,7 @@ I'm a backend-focused developer working with Python and relational databases. Cu
 
 | Project | Description | Technologies |
 | :--- | :--- | :--- |
-| **[Commits-Farm](https://github.com/PedrReis-create/Commits-Farm)** | A Python automation script designed to automate commit generation in a Git repository across a configurable date range. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **[Commits-Farm](https://github.com/PedrReis-create/Commits-Farm)** | A Node.js CLI tool for experimenting with Git history, automated custom commit timestamps, and contribution graph behaviors. | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ---
 
